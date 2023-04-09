@@ -25,6 +25,7 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
             packages:
+               any::tidyr
                any::knitr
                any::rmarkdown
                any::dplyr
