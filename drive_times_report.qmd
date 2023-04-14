@@ -19,8 +19,8 @@ api_key <- Sys.getenv("MAPS_API_KEY")
 
 ## Set origin and destination
 ## Change these to your own selections!
-ORIG <- "2221 University Ave SE, Minneapolis, MN"
-DEST <- "4940 France Ave S, Minneapolis, MN"
+ORIG <- "2929 University Ave SE, Minneapolis, MN"
+DEST <- "420 Delaware St, Minneapolis, MN"
 ```
 
 ## Route Information
